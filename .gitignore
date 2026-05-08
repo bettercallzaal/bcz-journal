@@ -1,0 +1,28 @@
+# Drafts — never publish
+journal/_drafts/
+**/_drafts/
+*.draft.md
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets — none should ever live here, but belt and suspenders
+.env
+.env.*
+*.pem
+*.key
+secrets.*
+
+# Local Jekyll output if anyone runs it
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+vendor/
+Gemfile.lock
+
+# Node (if we ever add tooling)
+node_modules/

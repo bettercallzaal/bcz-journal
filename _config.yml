@@ -1,0 +1,24 @@
+title: "bcz-journal"
+description: "Public journal by Zaal Panthaki — building The ZAO, WaveWarZ, and ZABAL in public."
+author: "Zaal Panthaki"
+theme: jekyll-theme-cayman
+
+# GitHub Pages will inject these
+url: "https://bettercallzaal.github.io"
+baseurl: "/bcz-journal"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Don't render private folders even if they slip in
+exclude:
+  - _drafts/
+  - "**/_drafts/"
+  - "*.draft.md"
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+
+include:
+  - .well-known

@@ -89,8 +89,9 @@ You probably want one of three things:
 You probably want to:
 
 1. **Read the research.** [research/](../research/) — 200+ docs covering music infra, governance, Farcaster Mini Apps, cross-platform publishing, AI agents.
-2. **Fork ZAOOS.** Whole infrastructure for a gated Farcaster community. [FORK.md](https://github.com/bettercallzaal/zaoos/blob/main/FORK.md) gets you running locally in under an hour.
-3. **Hire the connector.** [calendly.com/zaalp99/30minmeeting](https://calendly.com/zaalp99/30minmeeting).
+2. **Browse the project index.** [projects/](../projects/) — 103 repos clustered by theme, with the NEXUS lineage so the version-stack pattern actually makes sense.
+3. **Fork ZAOOS.** Whole infrastructure for a gated Farcaster community. [FORK.md](https://github.com/bettercallzaal/zaoos/blob/main/FORK.md) gets you running locally in under an hour.
+4. **Hire the connector.** [calendly.com/zaalp99/30minmeeting](https://calendly.com/zaalp99/30minmeeting).
 
 ### I'm a fan
 

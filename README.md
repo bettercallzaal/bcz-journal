@@ -8,9 +8,10 @@ This repo is the front door. Raw notes, research synthesis, project maps, and wh
 
 | Folder | What's in it |
 |---|---|
+| [nexus/](./nexus/) | **The Nexus** — one door into the whole ecosystem. ZAO, WaveWarZ, ZABAL, ZAOOS. Choose-your-door layout for artists / builders / fans / partners. |
 | [journal/](./journal/) | Dated entries. Newest at the top of [`journal/README.md`](./journal/README.md). |
 | [research/](./research/) | Public mirror of the [ZAOOS research library](https://github.com/bettercallzaal/zaoos/tree/main/research) — 200+ research docs across music, governance, agents, infrastructure. |
-| [ecosystem/](./ecosystem/) | Map of the things I'm building: The ZAO, WaveWarZ, supporting projects, people. |
+| [ecosystem/](./ecosystem/) | Internal map: every project / repo / on-chain contract / collaborator that makes up the system. More detail than the Nexus. |
 
 ## Where else to find me
 

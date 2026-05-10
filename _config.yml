@@ -1,7 +1,20 @@
 title: "bcz-journal"
 description: "Public journal by Zaal Panthaki — building The ZAO, WaveWarZ, and ZABAL in public."
-author: "Zaal Panthaki"
+author:
+  name: "Zaal Panthaki"
+  twitter: "bettercallzaal"
+twitter:
+  username: "bettercallzaal"
+  card: "summary_large_image"
+social:
+  name: "Zaal Panthaki"
+  links:
+    - "https://x.com/bettercallzaal"
+    - "https://www.linkedin.com/in/zaalp"
+    - "https://github.com/bettercallzaal"
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
 
 # Custom domain (journal.bettercallzaal.com via CNAME file at repo root)
 url: "https://journal.bettercallzaal.com"

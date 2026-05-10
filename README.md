@@ -13,6 +13,7 @@ This repo is the front door. Raw notes, research synthesis, project maps, and wh
 | [journal/](./journal/) | Dated entries. Newest at the top of [`journal/README.md`](./journal/README.md). |
 | [research/](./research/) | Public mirror of the [ZAOOS research library](https://github.com/bettercallzaal/zaoos/tree/main/research) — 200+ research docs across music, governance, agents, infrastructure. |
 | [ecosystem/](./ecosystem/) | Internal map: every project / repo / on-chain contract / collaborator that makes up the system. More detail than the Nexus. |
+| [inbox/](./inbox/) | Raw drop zone. Paste anything; Claude fans it out into journal entries, research docs, and Nexus updates. |
 
 ## Where else to find me
 

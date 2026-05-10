@@ -3,9 +3,9 @@ description: "Public journal by Zaal Panthaki — building The ZAO, WaveWarZ, an
 author: "Zaal Panthaki"
 theme: jekyll-theme-cayman
 
-# GitHub Pages will inject these
-url: "https://bettercallzaal.github.io"
-baseurl: "/bcz-journal"
+# Custom domain (journal.bettercallzaal.com via CNAME file at repo root)
+url: "https://journal.bettercallzaal.com"
+baseurl: ""
 
 markdown: kramdown
 kramdown:

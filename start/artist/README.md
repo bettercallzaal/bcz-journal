@@ -40,4 +40,4 @@ Three things, plainly:
 
 ---
 
-Back to [the Nexus](../) · [About The ZAO](https://www.thezao.com/about) · [Daily newsletter](https://paragraph.com/@thezao)
+[← Back to start](../) · [About The ZAO](https://www.thezao.com/about) · [Daily newsletter](https://paragraph.com/@thezao)

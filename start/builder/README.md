@@ -65,4 +65,4 @@ If you have a project where any of this is relevant — gated communities, music
 
 ---
 
-Back to [the Nexus](../) · [Project index](../../projects/) · [Research mirror](../../research/) · [Calendly](https://calendly.com/zaalp99/30minmeeting)
+[← Back to start](../) · [Project index](../../projects/) · [Research mirror](../../research/) · [Calendly](https://calendly.com/zaalp99/30minmeeting)

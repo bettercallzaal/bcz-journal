@@ -11,7 +11,7 @@
 | [**ZAOOS**](https://github.com/bettercallzaal/zaoos) | The lab — Farcaster gated client + ZAO ecosystem monorepo. ~4200 files, 100+ branches, fork-ready for any music community. | Next.js 16, React 19, Supabase, Farcaster, XMTP, Wagmi |
 | [**wavewarzapp**](https://github.com/bettercallzaal/wavewarzapp) | WaveWarZ Live — mobile alert + spectator app for Solana music battles. | Expo, React Native, Solana |
 | [**bettercallzaalwebsite**](https://github.com/bettercallzaal/bettercallzaalwebsite) | Personal consulting site, "The Connector" framing. | HTML / Vercel |
-| [**bcz-journal**](https://github.com/bettercallzaal/bcz-journal) | This repo — public journal + Nexus + ecosystem map. | Markdown + GitHub Pages |
+| [**bcz-journal**](https://github.com/bettercallzaal/bcz-journal) | This repo — public journal + start funnel + ecosystem map. | Markdown + GitHub Pages |
 | [**zaostock**](https://github.com/bettercallzaal/zaostock) | Music gathering + Telegram bot, mid-graduation from ZAOOS. | TypeScript |
 | [**zlank**](https://github.com/bettercallzaal/zlank) | No-code Farcaster Snap builder — stack blocks, hit Deploy, share to feed. | Next.js, Hono, Vercel |
 | [**Aurdour**](https://github.com/bettercallzaal/Aurdour) | Two-deck DJ platform with Flow Mode auto-DJ for non-DJs. | JavaScript |
@@ -137,7 +137,7 @@ The current Nexus exists because of this iteration arc. Most are dormant; useful
 - **By language:** filter on the GitHub profile (TS dominates ~50%, Python for bots, HTML for landing pages)
 - **By recent activity:** the GitHub profile shows pushed-at order
 - **For research, not code:** [research/](../research/) — points into the ZAOOS research library
-- **For the bigger picture:** [ecosystem/](../ecosystem/) and [nexus/](../nexus/)
+- **For the bigger picture:** [ecosystem/](../ecosystem/) and [start/](../start/)
 
 ---
 

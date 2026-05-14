@@ -1,6 +1,8 @@
-# ZAO Nexus
+# Start here
 
 > **One door into everything.** The ZAO is an impact network for independent musicians on Farcaster + Base. WaveWarZ is the onchain music battle product. ZABAL is the streaming and coordination layer that ties them together. ZAOOS is the lab where new things start.
+>
+> _(The canonical ZAO Nexus — a curated link hub — lives in a different repo. This page is the journal's start: pick a door below.)_
 
 ---
 

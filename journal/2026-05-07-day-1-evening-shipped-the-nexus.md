@@ -1,8 +1,10 @@
-# Day 1, Evening — Shipped the Nexus
+# Day 1, Evening — Shipped the start page
 
-**2026-05-07**
+**2026-05-07** _(filename uses the old "Nexus" name — see editor's note below)_
 
-Same day as the journal launch. Pushed two more things: the **Nexus** at `/nexus/` and the **Projects** index at `/projects/`. They're meant to work as a pair: Nexus is the *one-door* version (where do I go?), Projects is the *show me the receipts* version (what have you actually built?).
+> **Editor's note (later):** The section I called "the Nexus" on this day is now at [`/start/`](../start/) because the canonical **ZAO Nexus** is a separate, much-larger link-hub project that lives in its own repo. I didn't want to step on that name. The post below uses the old name throughout because that's what I called it when I shipped it.
+
+Same day as the journal launch. Pushed two more things: the **Nexus** (now at `/start/`) and the **Projects** index at `/projects/`. They're meant to work as a pair: the start page is the *one-door* version (where do I go?), Projects is the *show me the receipts* version (what have you actually built?).
 
 ## Why the Nexus needed to exist
 
@@ -16,9 +18,9 @@ So the new Nexus does three things the old one doesn't:
 2. **Choose-your-door (3-up):** Artist / Builder / Fan. Each gets a tailored next step. This came from realizing the old nexus made every visitor figure out their own path. Most won't.
 3. **Live numbers:** 906 battles, $42K traded, $706 paid out, Day ~492 of the newsletter. Numbers are there for credibility — and we already have a public real-time stats site at wavewarz.info, so we should be using it.
 
-The rich version lives on GitHub Pages at [`/nexus/`](../nexus/). I also wrote a `webflow-paste.md` next to it with the same content broken into Webflow-shaped section blocks so the marketing-facing nexus on `thezao.com` can be upgraded without rebuilding it.
+The rich version lives on GitHub Pages at [`/start/`](../start/) (was `/nexus/` originally). I also wrote a `webflow-paste.md` next to it with the same content broken into Webflow-shaped section blocks so the marketing-facing nexus on `thezao.com` can be upgraded without rebuilding it.
 
-Two-surface theory: keep `thezao.com/nexus` as the polished marketing entry, and let `bettercallzaal.github.io/bcz-journal/nexus/` be the live, builder-facing, "always current" version. Each does what it's good at.
+Two-surface theory: keep `thezao.com/nexus` as the polished marketing entry (and the canonical Nexus repo for builders), and let `journal.bettercallzaal.com/start/` be the live, builder-facing "always current" version. Each does what it's good at.
 
 ## Why the Projects index needed to exist
 

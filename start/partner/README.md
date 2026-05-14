@@ -62,4 +62,4 @@ For press: please use my full name (Zaal Panthaki) on first reference, **BetterC
 
 ---
 
-Back to [the Nexus](../) · [Public journal](../../journal/) · [Project index](../../projects/) · [About The ZAO](https://www.thezao.com/about)
+[← Back to start](../) · [Public journal](../../journal/) · [Project index](../../projects/) · [About The ZAO](https://www.thezao.com/about)

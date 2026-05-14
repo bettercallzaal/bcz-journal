@@ -65,7 +65,7 @@
 **ZABAL:** Leaderboard live · token launch Jan 1, 2026
 **Built in public:** [github.com/bettercallzaal](https://github.com/bettercallzaal) — 103 repos and counting
 
-_(Numbers update via the live ecosystem map at [bettercallzaal.github.io/bcz-journal/nexus/](https://bettercallzaal.github.io/bcz-journal/nexus/) — keep parity if you can.)_
+_(Numbers update via the live ecosystem map at [journal.bettercallzaal.com/start/](https://journal.bettercallzaal.com/start/) — keep parity if you can.)_
 
 ---
 
@@ -103,7 +103,7 @@ Add: "Read the public journal → bettercallzaal.github.io/bcz-journal" alongsid
 - **Live stats need to be either (a) hand-updated weekly or (b) wired to wavewarz.info via embed/iframe.** Hand-updated is fine for now; just don't let them go stale past 30 days.
 - **The "Choose your door" pattern is the clearest version of what the Nexus should do.** Right now thezao.com/nexus is just nav links. This pattern says "tell me who you are, I'll tell you where to start" which is much higher conversion.
 - **Don't promise things that aren't shipping.** "ZAO Stock 2026 in Maine" is announced via the Dec 2 ZABAL update so it's safe to mention. Anything past that should stay off the public Nexus until it's real.
-- **Match the rich version.** Live source of truth is `bcz-journal/nexus/README.md` → keep both in sync when the ecosystem changes; the journal version is canonical.
+- **Match the rich version.** Live source of truth is `bcz-journal/start/README.md` → keep both in sync when the ecosystem changes; the journal version is canonical.
 
 ---
 
@@ -112,6 +112,6 @@ Add: "Read the public journal → bettercallzaal.github.io/bcz-journal" alongsid
 Once the Webflow nexus is shipping the new copy, set up:
 - `nexus.thezao.com` → currently 302 redirects to `thezao.com/nexus`. Keep this.
 - `thezao.com/nexus` → make this Webflow page the marketing-facing version.
-- `bettercallzaal.github.io/bcz-journal/nexus/` → the live "always current" hacker version. Link to it from the Webflow page footer as "Built in public →".
+- `journal.bettercallzaal.com/start/` → the live "always current" hacker version. Link to it from the Webflow page footer as "Built in public →".
 
 That gives you the marketing surface (Webflow, ZAO-branded) and the source-of-truth surface (GitHub, builder-credibility) without forcing one to do both.

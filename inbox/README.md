@@ -22,7 +22,7 @@ The fan-out pattern:
 2. **Process** — when Claude runs through the inbox, each piece gets routed:
    - **Voice-y, dated, observational** → becomes a [journal](../journal/) entry
    - **Topic-deep, substantive research** → also lands in the [ZAOOS research library](https://github.com/bettercallzaal/zaoos/tree/main/research) under the right topic folder
-   - **Major announcement / new project / new collaborator** → triggers an update to the [Nexus](../nexus/) and [Ecosystem](../ecosystem/) pages
+   - **Major announcement / new project / new collaborator** → triggers an update to the [start page](../start/) and [Ecosystem](../ecosystem/) pages
 3. **Archive** — the raw drop moves to `inbox/_archive/YYYY-MM-DD-<slug>.md` so the trail is preserved
 4. **Publish** — the journal entry / research doc / nexus update is committed
 
@@ -33,9 +33,9 @@ The fan-out pattern:
 | Day's thoughts | `journal/` | Dated, voice-y |
 | Reflection on shipping something | `journal/` | Why it mattered |
 | Deep dive on a tool / API / pattern | `zaoos/research/` | Becomes part of the canonical library |
-| New project announcement | `nexus/` updates + `journal/` post | Both surfaces refresh |
+| New project announcement | `start/` updates + `journal/` post | Both surfaces refresh |
 | New collaborator | `ecosystem/` update | Add to the people section |
-| Live stat changes | `nexus/` "Right now" block | Hand-update for now |
+| Live stat changes | `start/` "Right now" block | Hand-update for now |
 | Sensitive / not-yet-public | NOT here | Use `~/coding/bots1/zaal/INBOX.md` (private) instead |
 
 ## What this folder is NOT for

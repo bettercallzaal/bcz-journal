@@ -48,4 +48,4 @@ If you stick around, three things start happening:
 
 ---
 
-Back to [the Nexus](../) · [Daily newsletter](https://paragraph.com/@thezao) · [Watch live](https://www.wavewarz.com) · [About The ZAO](https://www.thezao.com/about)
+[← Back to start](../) · [Daily newsletter](https://paragraph.com/@thezao) · [Watch live](https://www.wavewarz.com) · [About The ZAO](https://www.thezao.com/about)
